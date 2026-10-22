@@ -1,0 +1,37 @@
+{
+  "title": "KKT segmentation validity: automatic verb-bounded units vs. UD gold clauses (Uzbek)",
+  "upload_type": "dataset",
+  "version": "1.0.0",
+  "description": "Data and scripts comparing the automatic verb-bounded units of the KKT analysis pipeline (rule V0) with the gold clauses of the Uzbek Universal Dependencies treebanks UD_Uzbek-UT and UD_Uzbek-UzUDT (1 182 sentences): boundary precision and recall for a broad and a narrow gold definition, and the Heaps-type exponent of the clause-pattern inventory for V0 units, gold clauses on system tags and gold clauses on gold tags.",
+  "creators": [
+    {
+      "name": "Sirojiddinov, Ziyoviddin",
+      "orcid": "0000-0002-6249-032X",
+      "affiliation": "National University of Uzbekistan"
+    },
+    {
+      "name": "Khakimov, Muftakh",
+      "orcid": "0000-0001-6937-800X",
+      "affiliation": "National University of Uzbekistan"
+    }
+  ],
+  "keywords": [
+    "clause segmentation",
+    "Universal Dependencies",
+    "Uzbek",
+    "precision/recall",
+    "Heaps' law",
+    "Menzerath–Altmann law"
+  ],
+  "license": "cc-by-sa-4.0",
+  "access_right": "open",
+  "notes": "Three licence layers: data/ud/ and data/ud_system_output.json (UD-derived) CC BY-SA 4.0; coded corpora and results CC BY 4.0; code MIT. See LICENSE.",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.23562837",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ]
+}

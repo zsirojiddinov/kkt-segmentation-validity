@@ -1,0 +1,130 @@
+{
+  "repository": "zsirojiddinov/kkt-segmentation-validity",
+  "version": "1.0.0",
+  "algorithm": "sha256",
+  "note": "All files of the repository except MANIFEST.json itself.",
+  "n_files": 30,
+  "total_bytes": 2849158,
+  "files": {
+    ".gitignore": {
+      "sha256": "60c9bdd905fcf45ac485c680d32e9773962cf061b6f041dcddd033911558a672",
+      "bytes": 29
+    },
+    ".zenodo.json": {
+      "sha256": "f295f2a5a04ac2d8283d0dca240526979f83c47f51ed5e7ca67a5e3581dee84d",
+      "bytes": 1470
+    },
+    "CITATION.cff": {
+      "sha256": "984cad6711384e29e5cf8bc6015e6d296d98cd1cd9c3713ca0b541849131b9c2",
+      "bytes": 1649
+    },
+    "LICENSE": {
+      "sha256": "a7b284a2f22225b2e699586f94041c54614c0a3874ddf973e0a7c7e502b20f48",
+      "bytes": 737
+    },
+    "LICENSE-CODE": {
+      "sha256": "a89f5e5b76620bb46bce94911f64c9afa233a64290b720c8afb740163439eb7f",
+      "bytes": 1098
+    },
+    "LICENSE-DATA": {
+      "sha256": "319d54c0ba1cdd7785c6596a0576dc71685b65f40563ddaec6c337530dbcaba7",
+      "bytes": 532
+    },
+    "README.md": {
+      "sha256": "d28d8188d7022b6c9ef8c2bac03f3a3fb4564a46dabc9f1778aa9a2cad5f9b3f",
+      "bytes": 7460
+    },
+    "data/coded_corpus_K1.json": {
+      "sha256": "b8a7033bfa5099aa962b67ebd06b9e05501e3697d02beb98e8b2dd413acdd49c",
+      "bytes": 164459
+    },
+    "data/coded_corpus_K2.json": {
+      "sha256": "689a0b140ec3325a224262940b21a87ee03fe0760f32b50a9a6d5013c9251d08",
+      "bytes": 559709
+    },
+    "data/ud/UD_Uzbek-UT/LICENSE.txt": {
+      "sha256": "899b1804a12ebc090b96339614eede1b64b686721b650a71430b55b5235f7f79",
+      "bytes": 202
+    },
+    "data/ud/UD_Uzbek-UT/README.md": {
+      "sha256": "cdaf89858bd9d9992a9fe62608992c240a5b4d631d452432bc76c6791bc79f22",
+      "bytes": 2368
+    },
+    "data/ud/UD_Uzbek-UT/uz_ut-ud-test.conllu": {
+      "sha256": "6297430a3ac34275eefeab74d3b074618894704082e73e9d048ade561271a03a",
+      "bytes": 368868
+    },
+    "data/ud/UD_Uzbek-UT_r2.15/LICENSE.txt": {
+      "sha256": "899b1804a12ebc090b96339614eede1b64b686721b650a71430b55b5235f7f79",
+      "bytes": 202
+    },
+    "data/ud/UD_Uzbek-UT_r2.15/README.md": {
+      "sha256": "7398de802087a31a1a2d3951e72a6a7707f36ae83eea5b41fdfaa918cabdfef5",
+      "bytes": 1122
+    },
+    "data/ud/UD_Uzbek-UT_r2.15/stats.xml": {
+      "sha256": "1c78b555d91743b92bf956d11c1a0531cb36b0084ae39c398784e0cda7c09409",
+      "bytes": 10299
+    },
+    "data/ud/UD_Uzbek-UT_r2.15/uz_ut-ud-test.conllu": {
+      "sha256": "71d627bc7f6045e31135cfa99a72b92bb63d669597e0b5b163167373311c77b5",
+      "bytes": 366056
+    },
+    "data/ud/UD_Uzbek-UzUDT/LICENSE.txt": {
+      "sha256": "899b1804a12ebc090b96339614eede1b64b686721b650a71430b55b5235f7f79",
+      "bytes": 202
+    },
+    "data/ud/UD_Uzbek-UzUDT/README.md": {
+      "sha256": "8b908a10d956c08afcf985641557668e916966524e9497566b7cf0a8fd4eb399",
+      "bytes": 1992
+    },
+    "data/ud/UD_Uzbek-UzUDT/uz_uzudt-ud-test.conllu": {
+      "sha256": "6a191e59b6cbaade250463109581e95350702eb85fff765f407eca00ed1937dc",
+      "bytes": 116727
+    },
+    "data/ud/UD_Uzbek-UzUDT/uz_uzudt-ud-train.conllu": {
+      "sha256": "c1fb9548cbba34e3dddd5ca2af7d5eb3e37f1e8a6e640e29061ff5b9e581aa12",
+      "bytes": 297818
+    },
+    "data/ud_kkt_mapping.tsv": {
+      "sha256": "1686e40f114482ff5bda3971211a609f81e536817b180f49e6e542de104d1e2a",
+      "bytes": 262
+    },
+    "data/ud_system_output.json": {
+      "sha256": "259fd5ab7cb3fcde4200aaa858bc38174828364f9fc38e16de98d0a4e06076e9",
+      "bytes": 905209
+    },
+    "results/ud_gold.json": {
+      "sha256": "37017e08fc7bb0f129eb12838ea16cd8a507497637169758ed4f9ba0138041cb",
+      "bytes": 1465
+    },
+    "results/ud_segmentation.json": {
+      "sha256": "cd4a4fb3c0360e7cf3018e5756a1c1a6aa6d0eedf4165aa75bc0f0f6b88520ab",
+      "bytes": 1312
+    },
+    "results/ud_tagging.json": {
+      "sha256": "0eb69aba02580a375790f6c9725fe387ef29c7468805bfc1e1497431ee6dea49",
+      "bytes": 1370
+    },
+    "scripts/common.py": {
+      "sha256": "ad448717bc394c6fb1963a7817b5bd07c8a68aa368880b77cf0ec1d1e23ea353",
+      "bytes": 6189
+    },
+    "scripts/s10_ud_tagging.py": {
+      "sha256": "297350cab64b13b55f5fd74fb721714e6905185203311af4810f1480489f2d76",
+      "bytes": 4399
+    },
+    "scripts/s11_ud_segmentation.py": {
+      "sha256": "353389a564c5b4ed155eb12245c7a06dc2567730b459d66f305e9ddba9246f76",
+      "bytes": 3501
+    },
+    "scripts/s12_ud_gold.py": {
+      "sha256": "5755a14ff6aeeb8e712752744f3f3c47577d315bebfcafd790fabcf74422d307",
+      "bytes": 5142
+    },
+    "scripts/ud_tools.py": {
+      "sha256": "0d1dd3665d8abc32352d4948479857a880059a30da2705ff8d35b4c1e3178b4b",
+      "bytes": 17310
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+ "sizes": {
+  "UT": {
+   "sentences": 500,
+   "tokens": 5930
+  },
+  "UzUDT": {
+   "sentences": 684,
+   "tokens": 7582
+  },
+  "UT_r2.15": {
+   "sentences": 500,
+   "tokens": 5850
+  }
+ },
+ "duplicates_removed": {
+  "UT": [],
+  "UzUDT": [
+   "s130",
+   "s132"
+  ]
+ },
+ "sentences_used": 1182,
+ "accuracy": {
+  "UT": {
+   "n": 4902,
+   "correct": 4039,
+   "accuracy_pct": 82.39494084047328,
+   "macro_f1": 0.7410240361865026
+  },
+  "UzUDT": {
+   "n": 5972,
+   "correct": 4611,
+   "accuracy_pct": 77.21031480241125,
+   "macro_f1": 0.6690677334934193
+  },
+  "all": {
+   "n": 10874,
+   "correct": 8650,
+   "accuracy_pct": 79.54754460180247,
+   "macro_f1": 0.7049928508431577
+  }
+ },
+ "top_confusions": [
+  [
+   "C",
+   "G",
+   315
+  ],
+  [
+   "G",
+   "C",
+   242
+  ],
+  [
+   "C",
+   "P",
+   201
+  ],
+  [
+   "P",
+   "C",
+   194
+  ],
+  [
+   "G",
+   "G1",
+   102
+  ],
+  [
+   "C",
+   "F",
+   98
+  ],
+  [
+   "G1",
+   "Y",
+   83
+  ],
+  [
+   "C",
+   "N",
+   77
+  ],
+  [
+   "M",
+   "C",
+   70
+  ],
+  [
+   "G",
+   "P",
+   66
+  ]
+ ],
+ "system_codes_outside_tagset": {
+  "E": 64,
+  "D": 12,
+  "X4": 1
+ },
+ "system_codes_outside_tagset_total": 77,
+ "ud_unmappable_tokens": {
+  "INTJ": 29,
+  "X": 14,
+  "SYM": 1
+ },
+ "ud_nonpunct_tokens": 11072,
+ "alignment_buckets": {
+  "taqqoslanadi": 10874,
+  "birlashgan": 76,
+  "moslanmagan": 43,
+  "faqat_tizim": 46
+ },
+ "unaligned_sentences": 0
+}

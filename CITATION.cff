@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "KKT segmentation validity: automatic verb-bounded units vs. UD gold clauses (Uzbek)"
+abstract: >-
+  Data and scripts comparing the automatic verb-bounded units of the KKT analysis pipeline (rule V0) with the gold
+  clauses of the Uzbek Universal Dependencies treebanks UD_Uzbek-UT and UD_Uzbek-UzUDT (1 182 sentences): boundary
+  precision and recall for a broad and a narrow gold definition, and the Heaps-type exponent of the clause-pattern
+  inventory for V0 units, gold clauses on system tags and gold clauses on gold tags.
+type: dataset
+authors:
+  - family-names: Sirojiddinov
+    given-names: Ziyoviddin
+    orcid: "https://orcid.org/0000-0002-6249-032X"
+    affiliation: "National University of Uzbekistan"
+  - family-names: Khakimov
+    given-names: Muftakh
+    orcid: "https://orcid.org/0000-0001-6937-800X"
+    affiliation: "National University of Uzbekistan"
+version: "1.0.0"
+license:
+  - CC-BY-SA-4.0
+  - CC-BY-4.0
+  - MIT
+repository-code: "https://github.com/zsirojiddinov/kkt-segmentation-validity"
+keywords:
+  - "clause segmentation"
+  - "Universal Dependencies"
+  - "Uzbek"
+  - "precision/recall"
+  - "Heaps' law"
+  - "Menzerath–Altmann law"
+references:
+  - type: dataset
+    title: "What the Menzerath–Altmann exponent measures: clauses, morphemes and syllables in Uzbek — supplementary package"
+    doi: "10.5281/zenodo.23562837"
+    notes: "This dataset is a supplement to it (isSupplementTo)."
+    authors:
+      - family-names: Sirojiddinov
+        given-names: Ziyoviddin
+      - family-names: Khakimov
+        given-names: Muftakh

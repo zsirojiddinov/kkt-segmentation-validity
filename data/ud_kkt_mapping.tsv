@@ -1,0 +1,18 @@
+UPOS	treatment	tag
+NOUN	mapped	C
+PROPN	mapped	C
+ADJ	mapped	P
+VERB	mapped	G
+AUX	mapped	G
+ADV	mapped	N
+PRON	mapped	M
+DET	mapped	M
+NUM	mapped	F
+CCONJ	mapped	Y
+SCONJ	mapped	Y
+PART	mapped	Y
+ADP	mapped	G1
+INTJ	unmappable	
+SYM	unmappable	
+X	unmappable	
+PUNCT	excluded	

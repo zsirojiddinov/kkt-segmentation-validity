@@ -1,0 +1,14 @@
+This repository contains material under three licences.
+
+1. UD-derived data — data/ud/ and data/ud_system_output.json
+   Derived from the Universal Dependencies treebanks UD_Uzbek-UT and UD_Uzbek-UzUDT, which are licensed under
+   the Creative Commons Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0). These files are
+   distributed under the same licence: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+   (see the LICENSE.txt files in data/ud/).
+
+2. Coded corpora and results — data/coded_corpus_K1.json, data/coded_corpus_K2.json, data/ud_kkt_mapping.tsv,
+   results/
+   Creative Commons Attribution 4.0 International (CC BY 4.0); see LICENSE-DATA.
+
+3. Code — scripts/
+   MIT License; see LICENSE-CODE.
